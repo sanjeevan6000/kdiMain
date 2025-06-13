@@ -26,7 +26,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-lg">Phone</h4>
-                  <p className="text-slate-300">+91 (XXX) XXX-XXXX</p>
+                  <p className="text-slate-300">+91 9910636464</p>
                   <p className="text-slate-400 text-sm">Monday - Saturday, 9 AM - 6 PM</p>
                 </div>
               </div>
@@ -42,16 +42,7 @@ const Contact = () => {
                 </div>
               </div>
 
-              <div className="flex items-start space-x-4 group">
-                <div className="bg-gradient-to-r from-orange-500 to-orange-600 p-3 rounded-lg group-hover:scale-110 transition-transform duration-300">
-                  <MapPin size={24} />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-lg">Address</h4>
-                  <p className="text-slate-300">IMT Faridabad</p>
-                  <p className="text-slate-300">Haryana, India</p>
-                </div>
-              </div>
+             
 
               <div className="flex items-start space-x-4 group">
                 <div className="bg-gradient-to-r from-orange-500 to-orange-600 p-3 rounded-lg group-hover:scale-110 transition-transform duration-300">
