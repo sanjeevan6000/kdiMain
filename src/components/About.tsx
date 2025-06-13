@@ -6,7 +6,7 @@ import AnimatedCounter from './AnimatedCounter';
 const About = () => {
   const stats = [
     { icon: <Award size={36} />, value: 28, suffix: "+", label: "Years Experience" },
-    { icon: <Users size={36} />, value: 20, suffix: "", label: "CNC Centers" },
+    { icon: <Users size={36} />, value: 20, suffix: "", label: "CNC Centers" , prefix: "±" },
     { icon: <Factory size={36} />, value: 19500, suffix: "", label: "Sq. Ft. Plant" },
     { icon: <TrendingUp size={36} />, value: 10, suffix: "", label: "Microns Tolerance", prefix: "±" }
   ];
